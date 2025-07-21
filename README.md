@@ -15,7 +15,7 @@ This project is a replica of the given website, created using **HTML** and **CSS
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/sinhabhishree/buffer_squad_round3
    ```
 2. Open the `index.html` file in a web browser.
 
